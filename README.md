@@ -1,11 +1,6 @@
-一、马克思恩格斯全集
-[[马克思恩格斯全集（一）.pdf]]
-[[马克思恩格斯全集（二）.pdf]]
-[[马克思恩格斯全集（三）.pdf]]
-[[马克思恩格斯全集（四）.pdf]]
-[[马克思恩格斯全集（五）.pdf]]
-[[马克思恩格斯全集（六）.pdf]]
-[[马克思恩格斯全集（七）.pdf]]
-[[马克思恩格斯全集（八）.pdf]]
-[[马克思恩格斯全集（九）.pdf]]
-[[马克思恩格斯全集（十）.pdf]]
+# 🤯 Welcome to Activepieces
+
+Your friendliest open source all-in-one automation tool, designed to be **extensible** through a **type-safe** pieces framework written in **Typescript**.
+
+<br>
+<br>
